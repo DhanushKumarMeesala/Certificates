@@ -1,6 +1,7 @@
 # Certificates
 
 SQL Link:  
+https://github.com/DhanushKumarMeesala/Certificates/blob/main/SQL%20Cerificate.pdf
 
 
 Data Analytics  Link:
